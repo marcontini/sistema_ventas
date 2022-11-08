@@ -1,5 +1,5 @@
-import random
-
+#Programa encargado de generar una matriz cuadrada del tamaño especificado en la variable num
+#El programa va a crear un archivo de texto el cual su información va a tener un formato .csv
 lst_matriz = []
 num = 50
 for i in range(num):
